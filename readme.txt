@@ -1,2 +1,2 @@
-#Responsive navigation bar and drop-down menu
-using html5 & css3
+# Responsive navigation bar and drop-down menu
+## using html5 & css3
